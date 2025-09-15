@@ -6,6 +6,7 @@ class Notes {
 
 		int num;
 		num = 5;
+		
 
 		int num3 = 0;//setup a default value for the variable
 		
